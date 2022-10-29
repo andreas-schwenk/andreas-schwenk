@@ -2,7 +2,7 @@
 
 # Websites
 
-[https://arts-and-sciences.com)(https://arts-and-sciences.com)
+[https://arts-and-sciences.com](https://arts-and-sciences.com)
 [https://multila.org](https://multila.org)
 [https://www.th-koeln.de/personen/andreas.schwenk/](https://www.th-koeln.de/personen/andreas.schwenk/)
 [https://sell.f07-its.fh-koeln.de/web/](https://sell.f07-its.fh-koeln.de/web/)
