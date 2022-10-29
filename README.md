@@ -2,12 +2,12 @@
 
 # Websites
 
-- [https://arts-and-sciences.com](https://arts-and-sciences.com)
-- [https://multila.org](https://multila.org)
-- [https://www.th-koeln.de/personen/andreas.schwenk/](https://www.th-koeln.de/personen/andreas.schwenk/)
-- [https://sell.f07-its.fh-koeln.de/web/](https://sell.f07-its.fh-koeln.de/web/)
-- [https://app.f07-its.fh-koeln.de](https://app.f07-its.fh-koeln.de)
-- [https://aufgabenpool.th-koeln.de](https://aufgabenpool.th-koeln.de)
+- [https://arts-and-sciences.com](https://arts-and-sciences.com) - private website
+- [https://multila.org](https://multila.org) - compiler & computer architecture generator
+- [https://www.th-koeln.de/personen/andreas.schwenk/](https://www.th-koeln.de/personen/andreas.schwenk/) - office website
+- [https://sell.f07-its.fh-koeln.de/web/](https://sell.f07-its.fh-koeln.de/web/) - SELL, a simple E-Learning Language
+- [https://app.f07-its.fh-koeln.de](https://app.f07-its.fh-koeln.de) - mathe:buddy - a gamified app for higher math
+- [https://aufgabenpool.th-koeln.de](https://aufgabenpool.th-koeln.de) - database for math questions
 
 # Main Contributor of ...
 
@@ -19,4 +19,4 @@
 
 # Recent projects
 
-- [https://github.com/andreas-schwenk/weblisp](webLISP) [https://andreas-schwenk.github.io/weblisp/](playground)
+- [webLISP](https://github.com/andreas-schwenk/weblisp) [playground](https://andreas-schwenk.github.io/weblisp/)
