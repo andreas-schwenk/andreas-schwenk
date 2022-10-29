@@ -19,4 +19,4 @@
 
 # Recent projects
 
-- [webLISP](https://github.com/andreas-schwenk/weblisp) [playground](https://andreas-schwenk.github.io/weblisp/)
+- [webLISP](https://github.com/andreas-schwenk/weblisp) ([playground](https://andreas-schwenk.github.io/weblisp/))
