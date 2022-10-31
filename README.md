@@ -16,6 +16,7 @@
 - [https://github.com/c64emu](https://github.com/c64emu)
 - [https://github.com/aufgabenpool](https://github.com/aufgabenpool)
 - [https://github.com/sellquiz](https://github.com/sellquiz)
+- [https://github.com/e-learning-guides](https://github.com/e-learning-guides)
 
 # Recent projects
 
