@@ -6,7 +6,7 @@
 - [https://multila.org](https://multila.org) - compiler & computer architecture generator
 - [https://www.th-koeln.de/personen/andreas.schwenk/](https://www.th-koeln.de/personen/andreas.schwenk/) - office website
 - [https://sell.f07-its.fh-koeln.de/web/](https://sell.f07-its.fh-koeln.de/web/) - SELL, a simple E-Learning Language
-- [https://app.f07-its.fh-koeln.de](https://app.f07-its.fh-koeln.de) - mathe:buddy - a gamified app for higher math
+- [https://mathebuddy.github.io/](https://mathebuddy.github.io/) - mathe:buddy - a gamified app for higher math
 - [https://aufgabenpool.th-koeln.de](https://aufgabenpool.th-koeln.de) - database for math questions
 
 # Main Contributor of ...
