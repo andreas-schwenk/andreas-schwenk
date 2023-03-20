@@ -9,6 +9,8 @@
 - [https://mathebuddy.github.io/](https://mathebuddy.github.io/) - mathe:buddy - a gamified app for higher math
 - [https://aufgabenpool.th-koeln.de](https://aufgabenpool.th-koeln.de) - database for math questions
 - [https://sell.f07-its.fh-koeln.de/web/](https://sell.f07-its.fh-koeln.de/web/) - SELL, a simple E-Learning Language
+- [https://andreas-schwenk.github.io/weblisp/](https://andreas-schwenk.github.io/weblisp/) - nano Common-LISP implementation
+- [https://andreas-schwenk.github.io/webstde/](https://andreas-schwenk.github.io/webstde/) - Web-based State Transition Diagram Editor (webSTDE) to generate VHDL/Verilog/C Code
 - [https://multila.org](https://multila.org) - compiler & computer architecture generator (currently offline)
 
 # Main Contributor of ...
@@ -19,11 +21,6 @@
 - [https://github.com/aufgabenpool](https://github.com/aufgabenpool)
 - [https://github.com/sellquiz](https://github.com/sellquiz)
 - [https://github.com/e-learning-guides](https://github.com/e-learning-guides)
-
-# Recent projects
-
-- [webLISP](https://github.com/andreas-schwenk/weblisp) ([playground](https://andreas-schwenk.github.io/weblisp/)) - nano Common-LISP implementation
-- [webSTDE](https://github.com/andreas-schwenk/webstde) ([playground](https://andreas-schwenk.github.io/webstde/)) - Web-based State Transition Diagram Editor (webSTDE) to generate VHDL/Verilog/C Code
 
 # Packages @ pub.dev
 
