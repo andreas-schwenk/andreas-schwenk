@@ -22,8 +22,8 @@
 
 # Recent projects
 
-- [webLISP](https://github.com/andreas-schwenk/weblisp) ([playground](https://andreas-schwenk.github.io/weblisp/))
-- [webSTDE](https://github.com/andreas-schwenk/webstde) ([playground](https://andreas-schwenk.github.io/webstde/))
+- [webLISP](https://github.com/andreas-schwenk/weblisp) ([playground](https://andreas-schwenk.github.io/weblisp/)) - nano Common-LISP implementation
+- [webSTDE](https://github.com/andreas-schwenk/webstde) ([playground](https://andreas-schwenk.github.io/webstde/)) - Web-based State Transition Diagram Editor (webSTDE) to generate VHDL/Verilog/C Code
 
 # Packages @ pub.dev
 
