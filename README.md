@@ -4,7 +4,7 @@
 
 - [https://arts-and-sciences.com](https://arts-and-sciences.com) - private website
 - [https://andreas-schwenk.github.io](https://andreas-schwenk.github.io) - GitHub website
-- [https://andreas-schwenk.github.io/tex](https://andreas-schwenk.github.io) - TeX typesetter (writen in Dart)
+- [https://andreas-schwenk.github.io/tex](https://andreas-schwenk.github.io/tex) - TeX typesetter (writen in Dart)
 - [https://www.th-koeln.de/personen/andreas.schwenk/](https://www.th-koeln.de/personen/andreas.schwenk/) - office website
 - [https://mathebuddy.github.io/](https://mathebuddy.github.io/) - mathe:buddy - a gamified app for higher math
 - [https://aufgabenpool.th-koeln.de](https://aufgabenpool.th-koeln.de) - database for math questions
